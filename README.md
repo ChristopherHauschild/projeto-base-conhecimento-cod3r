@@ -4,7 +4,7 @@ Projeto final desenvolvido no curso de Web Moderno com JavaScript + Projetos dis
 
 O projeto trata-se de um plataforma para registro, organização e compartilhamento de artigos, entre os usuários cadastrados. 
 
-###Linguagens e tecnologias utilizadas:
+### Linguagens e tecnologias utilizadas:
 <ul>
   <li> Postgres e MongoDB </li>
   <li> Express </li>
