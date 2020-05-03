@@ -23,4 +23,5 @@ O projeto trata-se de um plataforma para registro, organização e compartilhame
 <p align="center">
   <img src="https://github.com/ChristopherHauschild/projeto-base-conhecimento-cod3r/blob/master/admin.gif?"/>
 </p>
+<hr>
 Repositório do curso completo pode ser encontrado <a href="https://github.com/ChristopherHauschild/curso-web-moderno-cod3r">aqui</a>.
