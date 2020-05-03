@@ -10,7 +10,7 @@ Linguagens e tecnologias utilizadas:
   <li> Express </li>
   <li> Passport e Json Web Token </li>
   <li> Vue.js e bibliotecas </li>
-<ul>
+</ul>
 
 
 
